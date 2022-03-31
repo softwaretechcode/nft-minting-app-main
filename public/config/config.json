@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x67ABdf2F21a4fD0D38e71962615f44169197D230",
+  "SCAN_LINK": "https://polygonscan.com/token/0x67ABdf2F21a4fD0D38e71962615f44169197D230",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Word Of Tech Club NFT",
+  "SYMBOL": "WOTCNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/word-of-tech-club",
+  "SHOW_BACKGROUND": true
+}
